@@ -1,3 +1,2 @@
 # Progress so far
-I was able to run the simulation by spawning it in PX4 autopilot Gazebo Harmonic but I wasn't able to give the drone commands (maybe my publisher has issues.) But apart from it, I just wanted to spawn another drone and then use some algorithm to avoid 
-collision.
+I am able to run the simulation by spawning drone in PX4 autopilot Gazebo Harmonic and I am able to give commands to drone. I am using Multi drone spawning feature of PX4 autopilot. Further work is pending like working on collision avoidance of two drones.
